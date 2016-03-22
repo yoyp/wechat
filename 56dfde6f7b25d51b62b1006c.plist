@@ -11,7 +11,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>http://yxb.iqun.net/kitty.ipa</string>
+                   <string>http://app.pgyer.com/8edc8d507be2777ac5624b2ef74d2e7a.ipa?v=1.1&sign=4a15fcd662e08a1fa6d6d22a9f53d9e2&t=56f1792b&attname=%E5%BE%AE.%E8%BD%AC%E5%8F%91-%E7%BB%BF%E8%89%B2-resigned.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -32,7 +32,7 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>ni8m.cp3rue.1baeet5a.app11</string>
+               <string>com.tencent.weixin.jy.01</string>
                <key>bundle-version</key>
                <string>6.3.6</string>
                <key>kind</key>
